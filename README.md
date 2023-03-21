@@ -20,15 +20,15 @@ It's a simple design of an analog clock, showing time in seconds, minutes and ho
 
 3.NPM INSTALL
 
-4.Read through the code()
+4.Read through the code
 
 # BEHAVIOURAL DRIVEN DEVELOPMENT(BBD)
 
-The project entails About me, products that i offer, how to contact me, the skills that i acquire, web design, my work and video editing tools.
+The design simply shows time in seconds,minutes and hours.All illustrated by clock hands respectively.
 
 # LIVE LINK
 
-I have deployed this project in my GitHub page and also in my gh-pages () it's one of my repositories
+I have deployed this project in my GitHub page and also in my gh-pages ( https://carlos-ai-bit.github.io/Simple-Analog-Clock/) it's one of my repositories
 
 # BUGS
 
